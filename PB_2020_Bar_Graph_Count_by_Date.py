@@ -15,7 +15,7 @@ pd.set_option('display.max_rows', 500)
 
 import seaborn as sns
 import matplotlib.pyplot as plt
-#get_ipython().run_line_magic('matplotlib', 'inline')
+#%matplotlib inline
 
 
 # In[3]:
